@@ -1,0 +1,7 @@
+This tutorial was actually really interesting, it's my first time doing anything at all related to LLM's and chatbots.
+The concept of a walker was foreign to me but now makes so much sense and i am excited to build more things that do other cool things.
+I was met with a lot of challenges doing this tutorial, mainly with authentication and server errors. But honestly going through 
+the code to figure out the errors helped me understand everything much better. The LLMs in part 2 took really long to load - I would
+have played around with them a little more if they buffered more quickly. I especially liked part 3
+because I could customize it into something funny. This is making me really excited for this class,
+so I'm glad its off to a good start with this tutorial.

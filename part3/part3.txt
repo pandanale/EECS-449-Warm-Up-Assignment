@@ -1,0 +1,8 @@
+Explain how the chatbot will route the user query to your custom chat model based on the classifiation?
+
+When the user sends a message like "tell me a joke" or "I need to laugh right now", the chatbot 
+will classify the query in order to determine what type of response is appropriate.
+The <Router> node will rely on the LLM to classify the query. If it is classified as a joke request,
+the query will be classified as ChatType.CLASS_CLOWN. Then the router sends the query to the right
+chat node. Since the classification will be CLASS_CLOWN, it routes the query to <ClassClownChat> node.
+
